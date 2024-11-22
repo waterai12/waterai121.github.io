@@ -1,6 +1,6 @@
 ## Welcome to Jiang Yunkai's personal Page
 
-I am a postgraduate student in School of Automataion, China University of Geosciences(CUG). Before that, I studied as an undergraduate in CUG from 2014 to 2018.
+I am currently working at iflytek, where my main responsibilities include training and inference of LLM, as well as participating in RAG, Agent, and other directions. Prior to this, I studied at China University of Geosciences(CUG) from 2014 to 2022.
 
 ### Research Interests
 
