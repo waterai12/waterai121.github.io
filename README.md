@@ -4,7 +4,7 @@ I am currently working at iflytek, where my main responsibilities include traini
 
 ### Research Interests
 
-Computer Vision, Human-computer Interaction, etc.
+Multimodal large model, Computer Vision, Human-computer Interaction, etc.
 
 ### Publication Link
 
